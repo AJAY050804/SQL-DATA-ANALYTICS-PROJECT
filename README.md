@@ -4,7 +4,7 @@
 This project focuses on analyzing retail sales performance and understanding customer purchasing behavior. Using structured SQL queries, I managed a relational database containing customer details and transactions to extract actionable business insights.
 
 ## 🛠️ Tech Stack & Concepts Used
-* *Database Platform:* PostgreSQL / MySQL
+* *Database Platform:* MySQL
 * *SQL Concepts:* DDL (Table Creation), DML (Data Insertion), Joins, Aggregate Functions (SUM, COUNT), Grouping (GROUP BY, HAVING), and Ordering.
 
 ## 🏗️ Database Schema & Structure
